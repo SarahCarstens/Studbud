@@ -1,0 +1,20 @@
+{
+  "name": "studbud",
+  "version": "1.0.0",
+  "description": "A study app to help students manage their assessments and time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "studbud"
+  },
+  "author": "Sarah Carstens",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+
+  
+}
